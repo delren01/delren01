@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delren01
 - 👀 I’m interested in creating programs and websites
-- 🌱 I’m currently learning programming (Python and Java)
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
