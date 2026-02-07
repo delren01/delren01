@@ -6,27 +6,18 @@ I'm currently a Junior Computer Science student at **New York Institute of Techn
 - **I'm currently working on:** Building personal web applications to improve my frontend skills.
 - **Fun Facts:** I love cats and I have 7 tattoos.
 
---- 
+---
 
+**🛠️ Tech Stack**
 * **Languages:** JavaScript (ES6+), Python, Java, HTML, CSS
-* **Frameworks & Libraries:** Django, Spring Boot
-* **Databases:** Supabase, SQL
-* **Tools:** VS Code, IntelliJ, Git/GitHub, Render
+* **Frameworks & DB:** Django, Spring Boot, Supabase, SQL
+* **Tools:** Git, VS Code, IntelliJ, Render
+
+**📂 Featured Projects**
+* **OmniSupply** – Full-stack Inventory Management System deployed on Render. *(Java, Spring Boot, Supabase)*
 
 ---
-
-### Featured Projects
-
-**OmniSupply**
-A full-stack Inventory Management System designed to track stock levels and product details.
-* *Details:* Built with a **Spring Boot** backend and **Supabase** for real-time data persistence, fully deployed and hosted on Render.
-* *Tech Stack:* Java, Spring Boot, Supabase
-
----
-
-###  How to reach me
-* **LinkedIn:** [www.linkedin.com/in/delren-d-ab147533b]
-* **Email:** [delrend01@gmail.com]
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/delren-d-ab147533b) • [delrend01@gmail.com](mailto:delrend01@gmail.com
 
 <!---
 delren01/delren01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
