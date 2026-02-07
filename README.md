@@ -7,7 +7,7 @@ I'm currently a Junior Computer Science student at **New York Institute of Techn
 - **Fun Facts:** I love cats and I have 7 tattoos.
 ---
 
-**Tech Stack**
+### Languages and Tools
 * **Languages:** JavaScript (ES6+), Python, Java, HTML, CSS
 * **Frameworks & Database:** Django, Spring Boot, Supabase, SQL
 * **Tools:** Git, VS Code, IntelliJ, Render
