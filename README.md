@@ -14,7 +14,7 @@ I'm currently a Junior Computer Science student at **New York Institute of Techn
 * **Tools:** Git, VS Code, IntelliJ, Render
 
 **Featured Projects**
-* **OmniSupply**
+**OmniSupply**
 A full-stack Inventory Management System designed to track stock levels and product details.
 * *Details:* Built with a **Spring Boot** backend and **Supabase** for real-time data persistence, fully deployed and hosted on Render.
 * *Tech Stack:* Java, Spring Boot, Supabase
