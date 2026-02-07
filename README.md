@@ -5,7 +5,6 @@ I'm currently a Junior Computer Science student at **New York Institute of Techn
 - **I'm currently learning:** JavaScript
 - **I'm currently working on:** Building personal web applications to improve my frontend skills.
 - **Fun Facts:** I love cats and I have 7 tattoos.
-
 ---
 
 **Tech Stack**
