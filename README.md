@@ -8,16 +8,16 @@ I'm currently a Junior Computer Science student at **New York Institute of Techn
 
 ---
 
-**🛠️ Tech Stack**
+**Tech Stack**
 * **Languages:** JavaScript (ES6+), Python, Java, HTML, CSS
 * **Frameworks & DB:** Django, Spring Boot, Supabase, SQL
 * **Tools:** Git, VS Code, IntelliJ, Render
 
-**📂 Featured Projects**
+**Featured Projects**
 * **OmniSupply** – Full-stack Inventory Management System deployed on Render. *(Java, Spring Boot, Supabase)*
 
 ---
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/delren-d-ab147533b) • [delrend01@gmail.com](mailto:delrend01@gmail.com
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/delren-d-ab147533b) • [delrend01@gmail.com]
 
 <!---
 delren01/delren01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
