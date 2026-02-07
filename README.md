@@ -13,12 +13,12 @@ I'm currently a Junior Computer Science student at **New York Institute of Techn
 * **Frameworks & Database:** Django, Spring Boot, Supabase, SQL
 * **Tools:** Git, VS Code, IntelliJ, Render
 
-**Featured Projects**
+### Featured Projects
+
 **OmniSupply**
 A full-stack Inventory Management System designed to track stock levels and product details.
 * *Details:* Built with a **Spring Boot** backend and **Supabase** for real-time data persistence, fully deployed and hosted on Render.
 * *Tech Stack:* Java, Spring Boot, Supabase
-
 --- 
 **Reach me:** [LinkedIn](https://www.linkedin.com/in/delren-d-ab147533b) • [delrend01@gmail.com]
 
