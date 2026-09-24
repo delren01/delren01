@@ -1,6 +1,6 @@
 # Hi, I'm Delren!
 
-I'm currently a Junior Computer Science student at **New York Institute of Technology**, aspiring to become a full-stack developer and build web applications.
+I'm currently a Senior Computer Science student at **New York Institute of Technology**, aspiring to become a full-stack developer and build web applications.
 
 - **I'm currently learning:** JavaScript
 - **I'm currently working on:** Building personal web applications to improve my frontend skills.
